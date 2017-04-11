@@ -1,0 +1,36 @@
+{
+	"ImportPath": "github.com/nitronick600/go-compose",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Comment": "v1.0.0-6-g80f7de3",
+			"Rev": "80f7de34463b0ed3d7c61303e5619efe1b227f92"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Comment": "v1.0.0-6-g80f7de3",
+			"Rev": "80f7de34463b0ed3d7c61303e5619efe1b227f92"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Comment": "v1.1",
+			"Rev": "1ea25387ff6f684839d82767c1733ff4d4d15d0a"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "dfc482b2558f4151fc8598139a686caf3fb2ef65"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-86-gdd3290b",
+			"Rev": "dd3290b2f71a8b30bee8e4e75a337a825263d26f"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "go1.0-cutoff-86-gdd3290b",
+			"Rev": "dd3290b2f71a8b30bee8e4e75a337a825263d26f"
+		}
+	]
+}
